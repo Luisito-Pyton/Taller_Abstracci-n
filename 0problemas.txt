@@ -1,0 +1,16 @@
+Taller Abstracción
+
+Ejercicio 1: Desarrollar Crear una clase Empleado que permita calcular el salarios
+de los empleados
+
+Ejercicio 2: Desarrollar una clase Estudiante que permita almacenar y calcular el
+promedio de las notas de un estudiante.
+
+Ejercicio 3: Crear una clase Factura que permita registrar productos y calcular el
+total de la compra
+
+Ejercicio 4: Diseñar una clase Usuario para gestionar autenticaciones en un
+sistema.
+
+Ejercicio 5: Implementar una clase Menú que permita interactuar con el usuario y
+ejecutar un menú de opciones.
